@@ -20,13 +20,13 @@ The system also supports calculating GST and offering discounts on large purchas
 - **Stock Updates**: Automatically updates the inventory after each purchase.
 - **Sales Record**: Logs all completed sales to a `sales.txt` file.
 
-## Files
+## Files📂
 
 - `Records.json`: Stores the product information in a dictionary format with product IDs, names, prices, and available quantities.
 - `sales.txt`: A file where all the sales transactions are logged with customer details and the final billing amount.
 - `main.py`: The Python script that runs the billing and inventory system.
 
-## How to Use
+## How to Use🔍
 
 1. **Set up Inventory**:
     - Before running the script, ensure that `Records.json` contains all the products and their details.
@@ -54,7 +54,7 @@ The system also supports calculating GST and offering discounts on large purchas
         - Update the inventory.
         - Log the transaction in `sales.txt`.
 
-## Error Handling:
+## Error Handling👾
 - If the requested quantity is unavailable, the system will notify the user about the available stock.
 - The user will have the option to purchase the available quantity or cancel the transaction.
 
