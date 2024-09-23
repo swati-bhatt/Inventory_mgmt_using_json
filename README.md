@@ -1,6 +1,6 @@
 # Hey, I'm Swati Bhatt👩🏻‍💻!
 
-# Inventory and Billing System
+# Inventory and Billing System🗂️
 
 This is a simple inventory and billing management system implemented in Python. 
 It allows users to view the product list, create bills, and automatically update inventory records.
