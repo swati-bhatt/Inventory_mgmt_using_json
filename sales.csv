@@ -1,0 +1,7 @@
+name,phoneNo,email,pr_id,pr_name,price,quantity,total,gst,discount,final amount, time
+swati,7879192,swati@gmail.com,1001,Dairy-milk,15,2,30,5.3999999999999995,0,35.4,Mon Sep 23 15:43:37 2024
+riya,1783783,riya@hotmail.com,1005,Snickers,10,200,2000,360.0,118.0,2242.0,Mon Sep 23 15:44:43 2024
+kushal,7399389,kushal@yahoo.com,1003,Milky-bar,25,7,175,31.5,0,206.5,Mon Sep 23 15:46:09 2024
+rohan,648748,rohal@gmail.com,1004,Lotte Chocopie,50,20,1000,180.0,59.0,1121.0,Mon Sep 23 15:49:12 2024
+Swati Bhatt,7587575,swati@gamil.com,1004,Lotte Chocopie,50,25,1250,225.0,73.75,1401.25,Mon Sep 23 15:50:35 2024
+khushi,283748,khushi@yahoo.com,1002,Five-star,30,4,120,21.599999999999998,0,141.6,Mon Sep 23 15:52:01 2024
